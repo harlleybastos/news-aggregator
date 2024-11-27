@@ -103,6 +103,11 @@ npm start
 
 ## Environment Variables
 
+## ⚠️ Important Note About Environment Variables
+
+> **WARNING**: The API keys and environment variables shown below are temporarily exposed ONLY for evaluation purposes. These will be revoked and removed from the documentation immediately after the review process. In a production environment, these values should never be committed or exposed in documentation.
+
+
 ### Backend (.env)
 ```env
 APP_NAME=NewsAggregator
