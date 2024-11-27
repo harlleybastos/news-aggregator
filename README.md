@@ -24,7 +24,7 @@ A modern news aggregation platform built with Laravel and React that pulls artic
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/news-aggregator.git
+git clone https://github.com/harlleybastos/news-aggregator.git
 cd news-aggregator
 ```
 
@@ -71,7 +71,7 @@ The application should now be available at:
 
 1. Clone the repository and set up backend:
 ```bash
-git clone https://github.com/yourusername/news-aggregator.git
+git clone https://github.com/harlleybastos/news-aggregator.git
 cd news-aggregator/backend
 
 composer install
